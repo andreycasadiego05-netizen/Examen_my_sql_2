@@ -1,7 +1,7 @@
 # Examen_my_sql_2
 
 
-el problema era el siguiente:
+El problema era el siguiente:
 
 Trigger Básico
 
@@ -51,4 +51,4 @@ Ahi la fecha de inicio era 2026-10-20 y se indica inicialmente como fecha de ven
 
 ACLARACION:
 por indicacion del profesor se reemplazo el AFTER por el BEFORE
-porque no es posible modificar un dato que se insertar en la misma entidad
+porque no es posible modificar un dato que se insertando en la misma entidad
