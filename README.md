@@ -47,6 +47,8 @@ Ahi la fecha de inicio era 2026-10-20 y se indica inicialmente como fecha de ven
 
 
 
+
+
 ACLARACION:
 por indicacion del profesor se reemplazo el AFTER por el BEFORE
-porque no es posible insertar algo en la misma entidad
+porque no es posible modificar un dato que se insertar en la misma entidad
